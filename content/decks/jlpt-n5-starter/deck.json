@@ -1,0 +1,10 @@
+{
+  "id": "jlpt-n5-starter",
+  "name": "JLPT N5 starter",
+  "description": "60 everyday words to begin with. Readings and meanings are filled in from the dictionary when left empty.",
+  "version": 1,
+  "author": "Shiva Rao",
+  "tags": ["jlpt", "n5"],
+  "direction": "jp-meaning",
+  "cards": "cards.csv"
+}

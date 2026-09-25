@@ -1,0 +1,37 @@
+Jisho dictionary data: sources and licenses
+===========================================
+
+Jisho's dictionary packs (core-en, lang-*, ja-explain) are adapted from the
+works below. We changed them: we converted them to SQLite, merged, trimmed and
+re-indexed them for offline search, and added frequency/priority rankings.
+The packs are shared under the same licenses as their sources (ShareAlike):
+Creative Commons Attribution-ShareAlike 4.0 International
+(https://creativecommons.org/licenses/by-sa/4.0/), except for the parts
+listed below under other licenses. The data comes WITHOUT ANY WARRANTY.
+
+- JMdict (Japanese-multilingual dictionary), KANJIDIC2, RADKFILE and KRADFILE
+  Copyright (c) James William Breen and the Electronic Dictionary Research and
+  Development Group (EDRDG). Licensed CC BY-SA 4.0.
+  https://www.edrdg.org/edrdg/licence.html
+  https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
+  Obtained in JSON form from jmdict-simplified by Mikhail Scheglov (scriptin)
+  https://github.com/scriptin/jmdict-simplified
+
+- Example sentences: Tatoeba (https://tatoeba.org), by the Tatoeba
+  contributors. Licensed CC BY 2.0 FR
+  (https://creativecommons.org/licenses/by/2.0/fr/). They come through JMdict
+  and jmdict-simplified.
+
+- Kanji stroke order: KanjiVG, Copyright (c) 2009-2024 Ulrich Apel.
+  Licensed CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/).
+  https://kanjivg.tagaini.net
+
+- Japanese explanations (ja-explain): Japanese Wiktionary
+  (https://ja.wiktionary.org), by the Wiktionary contributors. Licensed
+  CC BY-SA 4.0 (text also available under the GNU FDL). Extracted by
+  Wiktextract / kaikki.org (https://kaikki.org), by Tatu Ylonen.
+  Each entry's history and authors are available on its Wiktionary page.
+
+- Handwriting recognition patterns: KanjiCanvas, Copyright (c) 2019 Dominik
+  Klein, MIT license (see the software notices).
+  http://github.com/asdfjkl/kanjicanvas

@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-Yas2eNia.js","assets/nativeUpdate-CE_MezoP.js","assets/index-CHZn5QjC.js"])))=>i.map(i=>d[i]);
+import{_ as r}from"./index-CHZn5QjC.js";import{q as t}from"./nativeUpdate-CE_MezoP.js";var o;(function(e){e[e.Flush=0]="Flush",e[e.Add=1]="Add"})(o||(o={}));const p=t("TextToSpeech",{web:()=>r(()=>import("./web-Yas2eNia.js"),__vite__mapDeps([0,1,2])).then(e=>new e.TextToSpeechWeb)});export{o as QueueStrategy,p as TextToSpeech};
