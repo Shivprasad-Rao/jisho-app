@@ -9,6 +9,13 @@ Decks and themes for the Jisho app. Push to `main`, then:
 
 ## Add a deck
 
+Easiest: build the list in the app, then **Export → Jisho deck for the content
+repo**. Unzip it at the root of this repo (it contains `decks/<id>/…`), check
+the id/name in `deck.json`, and push. Re-exporting a deck you got from here
+bumps its `version` for you.
+
+By hand:
+
 ```
 decks/<deck-id>/deck.json
 decks/<deck-id>/cards.csv
