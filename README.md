@@ -48,3 +48,10 @@ Check your changes before pushing. From the app repo:
 ```
 npm run validate -w @jisho/server -- ../jisho-content
 ```
+
+## License
+
+Decks here are CC BY-SA 4.0 (see `LICENSE`): their readings and meanings come
+from JMdict, which is CC BY-SA 4.0. Only add content you wrote yourself or
+that's under a compatible license, and no game or other copyrighted art in
+themes.
