@@ -11,7 +11,8 @@ Decks and themes for the Jisho app. Push to `main`, then:
 
 Easiest: build the list in the app, then **Export → Jisho deck for the content
 repo**. Unzip it at the root of this repo (it contains `decks/<id>/…`), check
-the id/name in `deck.json`, and push. Re-exporting a deck you got from here
+the name in `deck.json`, and push. To rename a deck folder, change `id` in
+`deck.json` to match: ids are lowercase letters, digits and dashes. Re-exporting a deck you got from here
 bumps its `version` for you.
 
 By hand:
