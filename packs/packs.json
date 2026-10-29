@@ -1,0 +1,107 @@
+{
+  "version": "3.6.2+20260921173324",
+  "packs": [
+    {
+      "id": "core-en",
+      "name": "Core dictionary (English)",
+      "kind": "core",
+      "lang": "eng",
+      "description": "JMdict words, kanji, stroke order, radicals and example sentences",
+      "file": "core-en.sqlite.gz",
+      "size": 45317156,
+      "rawSize": 131510272,
+      "sha256": "78904efdb32eb13170c4aa018b39402e665d4109103fa28fe76571afd89baec7"
+    },
+    {
+      "id": "ja-explain",
+      "name": "日本語の説明 (Japanese explanations)",
+      "kind": "ja-explain",
+      "lang": "jpn",
+      "description": "Japanese definitions from Japanese Wiktionary",
+      "file": "ja-explain.sqlite.gz",
+      "size": 4971247,
+      "rawSize": 15708160,
+      "sha256": "85cac6deac886ad6e941815c8fa3017c1ca8c7e853dbc628fb75a790b7ae4772"
+    },
+    {
+      "id": "lang-ger",
+      "name": "Deutsch",
+      "kind": "lang",
+      "lang": "ger",
+      "file": "lang-ger.sqlite.gz",
+      "size": 8772610,
+      "rawSize": 19968000,
+      "sha256": "15482fe0d113a9ee44b60707040a169543f86ef822bbc306ac6316a98fa73076"
+    },
+    {
+      "id": "lang-fre",
+      "name": "Français",
+      "kind": "lang",
+      "lang": "fre",
+      "file": "lang-fre.sqlite.gz",
+      "size": 769727,
+      "rawSize": 1818624,
+      "sha256": "61ff3e3177d122d2c1125aa855aa89332fca2dd4c4ff4039052fccefc5495cb7"
+    },
+    {
+      "id": "lang-rus",
+      "name": "Русский",
+      "kind": "lang",
+      "lang": "rus",
+      "file": "lang-rus.sqlite.gz",
+      "size": 5214971,
+      "rawSize": 13660160,
+      "sha256": "9c4515e9799819e84b0e7e1db1d8303dbe43295f1c62ede7c4737e2be130124a"
+    },
+    {
+      "id": "lang-spa",
+      "name": "Español",
+      "kind": "lang",
+      "lang": "spa",
+      "file": "lang-spa.sqlite.gz",
+      "size": 1711205,
+      "rawSize": 3932160,
+      "sha256": "07ef05d70970d0ec98c4fe271baceefa32a9b0cc3294bfe4a41e155632267f62"
+    },
+    {
+      "id": "lang-dut",
+      "name": "Nederlands",
+      "kind": "lang",
+      "lang": "dut",
+      "file": "lang-dut.sqlite.gz",
+      "size": 5122110,
+      "rawSize": 11395072,
+      "sha256": "937092a861261b0d7e37e0bfe0e297d26c13042d4bd737efde379ce1c5d48fa9"
+    },
+    {
+      "id": "lang-hun",
+      "name": "Magyar",
+      "kind": "lang",
+      "lang": "hun",
+      "file": "lang-hun.sqlite.gz",
+      "size": 2603348,
+      "rawSize": 6000640,
+      "sha256": "e0a0421641fa1bfc743f70c9b85c18716ced3e6385ab6d68d25ec29cacecf5bf"
+    },
+    {
+      "id": "lang-swe",
+      "name": "Svenska",
+      "kind": "lang",
+      "lang": "swe",
+      "file": "lang-swe.sqlite.gz",
+      "size": 472552,
+      "rawSize": 1191936,
+      "sha256": "544dfd256f5713694bf83175e6a7d9e5aa9ccc8399fdbb98bff675d470533940"
+    },
+    {
+      "id": "lang-slv",
+      "name": "Slovenščina",
+      "kind": "lang",
+      "lang": "slv",
+      "file": "lang-slv.sqlite.gz",
+      "size": 504245,
+      "rawSize": 1150976,
+      "sha256": "b09f147b1951aa9aa3df0ff7906d3188153a74910f9a254ec78702a18551e884"
+    }
+  ]
+}
